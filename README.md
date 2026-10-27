@@ -1,1 +1,1 @@
-# -vs-2-
+# yandex-vs-2gis-usability-comparison
